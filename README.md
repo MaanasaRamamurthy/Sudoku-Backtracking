@@ -9,5 +9,7 @@ Steps:
 5. Repeat the above steps until all the cells in the grid are filled.
 
 The GUI was created using Pygame. The previously filled numbers are shown in Red and the rest in Black!
-![sudoku](https://user-images.githubusercontent.com/92803996/230758940-c456342f-5a84-4d8c-b93c-ec5d42056d45.jpg)
+
+![sudoku](https://user-images.githubusercontent.com/92803996/230758971-bc46c817-62b1-4d44-9a61-ee82c327e393.jpg)
+
 
