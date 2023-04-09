@@ -10,4 +10,4 @@ Steps:
 
 The GUI was created using Pygame. The previously filled numbers are shown in Red and the rest in Black!
 
-(https://user-images.githubusercontent.com/92803996/230758786-b0561862-b8db-4a7e-96df-61e17af96d11.jpeg)
+![sudoku](https://user-images.githubusercontent.com/92803996/230758840-a263656a-f852-40bf-9ae7-dd39dd5d1d8b.jpeg)
